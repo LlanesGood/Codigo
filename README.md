@@ -1,4 +1,5 @@
 Codigo hecho por Miguel Canto y colaborador Cristian Llanes.
+IMPORTANTE. Verificar el modelado de la base de datos y modificar en caso de ser necesario.
 
 Clases principales:
 - Tarjeta, Menu, Inicializador, Operaciones
